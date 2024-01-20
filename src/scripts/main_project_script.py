@@ -45,7 +45,7 @@ def spark_init(Spark_Session_Name) -> SparkSession:
             .builder
             .appName({Spark_Session_Name})
             .config("spark.jars.packages", spark_jars_packages)
-            .config("spark.sql.session.timeZone", "UTC") \
+            .config("spark.sql.session.timeZone", "UTC") 
             .getOrCreate()
     )
     
