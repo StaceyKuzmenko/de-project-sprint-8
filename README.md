@@ -19,5 +19,5 @@
 ### План проекта
 Итак, задача — реализовать сервис. Схематично его работа будет выглядеть так:
 
-![Project_plan](https://github.com/StaceyKuzmenko/de-project-sprint-8/blob/main/Project_plan.png
+![Project_plan](https://github.com/StaceyKuzmenko/de-project-sprint-8/blob/main/Project_plan.png)
 
